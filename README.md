@@ -10,4 +10,4 @@ The app was built with HTML5 for text content, CSS3 for visuals, Javascript and 
 2. Run `npm install`
 3. Run `npm start`
 4. You must add your own API key in the `src/App.js` file to connect to Clarifai. You can grab Clarifai API key [here](https://www.clarifai.com/)
-5. This code works together with the [back end](https://github.com/FuAdventure/face-recognition-api/edit/main/README.md). If you deploy the back end on a remote platform, remember to change the locations of the fetches in `App.js`, `signin.js`, `register.js` to your back end host.
+5. This code works together with the [back end](https://github.com/FuAdventure/face-recognition-api/). If you deploy the back end on a remote platform, remember to change the locations of the fetches in `App.js`, `signin.js`, `register.js` to your back end host.
